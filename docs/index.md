@@ -7,7 +7,8 @@ has_children: false
 
 [Join the GRMS Trailblazer Community - Today!](https://trailhead.salesforce.com/trailblazer-community/groups/0F94S000000kI60SAE){: .btn .btn-skyblue }
 
-![Logo](/assets/images/grms-logo_250x309.png)
+<!-- ![Logo](assets/images/grms-logo_250x309.png) -->
+![Logo](https://raw.githubusercontent.com/SFDO-Community-Sprints/GRMS-Documentation/main/docs/assets/images/grms-logo_250x309.png))
 
 ## Brief History
 
