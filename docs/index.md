@@ -5,9 +5,9 @@ nav_order: 1
 has_children: false
 ---
 
-[Join the GRMS Trailblazer Community - Today!](https://trailhead.salesforce.com/trailblazer-community/groups/0F94S000000kI60SAE){: .btn .btn-green }
+[Join the GRMS Trailblazer Community - Today!](https://trailhead.salesforce.com/trailblazer-community/groups/0F94S000000kI60SAE){: .btn .btn-skyblue }
 
-![Logo](assets/images/grms-logo_250x309.png)
+![Logo](/assets/images/grms-logo_250x309.png)
 
 ## Brief History
 
