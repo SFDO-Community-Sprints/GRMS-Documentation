@@ -5,7 +5,7 @@ baseurl: "/" #the subpath of your site, e.g. /blog
 url: "https://sfdo-community-sprints.github.io/GRMS-Documentation" # the base hostname & protocol for your site, e.g. http://example.com
 
 # Information on theme https://just-the-docs.github.io/just-the-docs/
-# theme: just-the-docs
+theme: just-the-docs
 remote_theme: just-the-docs/just-the-docs
 
 # Color scheme supports "light" (default) and "dark"
@@ -69,6 +69,7 @@ last_edit_time_format: "%b %e %Y at %I:%M %p" # uses ruby's time format: https:/
 
 plugins:
   - jekyll-seo-tag
+  - jekyll-default-layout
 
 kramdown:
   syntax_highlighter_opts:
