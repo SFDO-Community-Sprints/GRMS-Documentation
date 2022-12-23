@@ -1,0 +1,45 @@
+title: "GRMS Documentation"
+description: "Information about Grassroot Mobile Survey App"
+remote_theme: just-the-docs/just-the-docs
+color_scheme: "light"
+
+# Aux links for the upper right navigation
+aux_links:
+  "View Grassroot Mobile Survey App Package Repo":
+    - "//github.com/SFDO-Community/GrassrootsMobileSurveyApp"
+
+  "View Grassroot Mobile Survey Salesforce Package Repo":
+    - "//github.com/SFDO-Community/GrassrootsSurveySalesforcePackage"
+
+  "View DLRS Docs Repo":
+    - "//github.com/SFDO-Community-Sprints/GRMS-Documentation"
+aux_links_new_tab: true
+
+# Heading anchor links appear on hover over h1-h6 tags in page content
+# allowing users to deep link to a particular heading on a page.
+# Supports true (default) or false
+heading_anchors: true
+
+#Footer
+footer_content: "Grassroot Mobile Survey is a tool built and maintained by a community of volunteers through the Open Source Commons program. This is not a Salesforce-owned product. If you need support, go to the Trailblazer Community Group. "
+
+# Search Settings
+search_enabled: true
+
+# Back to top link
+back_to_top: true
+back_to_top_text: "Back to top"
+
+# Footer "Edit this page on GitHub" link text
+gh_edit_link: true # show or hide edit this page link
+gh_edit_link_text: "Edit this page on GitHub"
+gh_edit_repository: "https://github.com/SFDO-Community-Sprints/GRMS-Documentation/" # the github URL for your repo
+gh_edit_branch: "main" # the branch that your docs is served from
+gh_edit_source: docs # the source that your files originate from
+gh_edit_view_mode: "tree" # "tree" or "edit" if you want the user to jump into the editor immediately
+########################################################
+
+# Replaces title if used
+# logo: "/assets/images/grms-logo_250x309.png"
+
+# "favicon.ico" used to change default favicon
