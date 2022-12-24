@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Grassroot Mobile Survey App Documentation
+title: Home
 nav_order: 1
 permalink: /
 ---
