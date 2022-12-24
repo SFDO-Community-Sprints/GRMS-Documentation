@@ -1,14 +1,17 @@
 ---
 layout: default
-title: Welcome to Grassroot Mobile Survey OSC Project
+title: Grassroot Mobile Survey App
 nav_order: 1
 has_children: false
 ---
 
-[Join the GRMS Trailblazer Community - Today!](https://trailhead.salesforce.com/trailblazer-community/groups/0F94S000000kI60SAE){: .btn .btn-skyblue }
+[Join the GRMS Trailblazer Community - Today!](https://trailhead.salesforce.com/trailblazer-community/groups/0F94S000000kI60SAE){: .btn .btn-pink }
 
 <!-- ![Logo](assets/images/grms-logo_250x309.png) -->
-![Logo](https://raw.githubusercontent.com/SFDO-Community-Sprints/GRMS-Documentation/main/docs/assets/images/grms-logo_250x309.png))
+![Logo](https://raw.githubusercontent.com/SFDO-Community-Sprints/GRMS-Documentation/main/docs/assets/images/grms-logo_250x309.png)
+
+# Grassroot Mobile Survey App
+Welcome to the Grassroots Mobile Survey App Documentation site, a resource for nonprofit organizations interested in using the app and people interested in contributing to the project.
 
 ## Brief History
 
@@ -30,6 +33,13 @@ View the [Project Intro Video](https://salesforce.vidyard.com/watch/mmiv56JVjcYw
 ## Join Us
 
 Join our group discussion in the [Trailblazer Community](https://trailhead.salesforce.com/trailblazer-community/groups/0F94S000000kI60SAE).
+
+If you are a **nonprofit**:<br>
+Your Salesforce Administrator just needs to do the [Getting Started](docs/getting-started/index.md) one-time setup before [Getting Your Field Workers Started](#getting-your-field-workers-started) with the mobile app. Then some [Further Customization](docs/further-customization/index.md) can make it more effective for you.
+
+If you are an **aspiring contributor**:<br>
+You can help us just by following the instructions in this wiki and giving us feedback about the process. Join our group discussion in the [Trailblazer Community group](https://trailhead.salesforce.com/ja/trailblazer-community/groups/0F94S000000kI60SAE). We also need [developers](docs/contribution/index.md) and help with documentation, marketing, and support.
+
 
 ## Project Team
 
