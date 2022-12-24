@@ -4,7 +4,7 @@ parent: Getting Started
 nav_order: 3
 ---
 
-# Editing Mobile Environment Setup
+# Mobile Environment Setup
 
 * [Install the Mobile App](#install-the-mobile-app)
 * [Register the Heroku App in the Mobile App](#register-the-heroku-app-in-the-mobile-app)
