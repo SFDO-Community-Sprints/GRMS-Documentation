@@ -3,7 +3,7 @@ title: Salesforce Initial Setup
 parent: Getting Started
 nav_order: 1
 ---
-
+# Salesforce Initial Setup
 ## Install the Grassroots Survey Salesforce Package
 The `Grassroots Survey` package contains metadata like custom fields and custom objects that are used in the mobile app. 
 

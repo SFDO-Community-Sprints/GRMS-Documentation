@@ -4,6 +4,8 @@ parent: Getting Started
 nav_order: 2
 ---
 
+# Heroku Initial Setup
+
 * [Create a Heroku Account](#prerequisite)
 * [Deploy the Heroku App](#deploy-the-heroku-app)
 * [Store Field Worker Credentials in Auth0](#store-field-worker-credentials-in-auth0)

@@ -1,7 +1,8 @@
 --- 
-title: Architecture
+title: Architecture Overview
 nav_order: 2
 ---
+#  Architecture Overview
 
 This mobile app utilizes a Heroku app with Auth0 as a login API endpoint to sync the offline survey data to your org using a Salesforce integration user license. The mobile app authenticates users in Auth0 and retrieves a Salesforce access token to download metadata and upload records. A configurable Salesforce package manages the surveys and the mobile app users in your org. 
 
