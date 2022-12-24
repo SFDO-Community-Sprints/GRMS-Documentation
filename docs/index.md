@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Grassroot Mobile Survey App
+title: Grassroots Mobile Survey App
 nav_order: 1
 has_children: false
 ---
@@ -10,7 +10,7 @@ has_children: false
 <!-- ![Logo](assets/images/grms-logo_250x309.png) -->
 ![Logo](https://raw.githubusercontent.com/SFDO-Community-Sprints/GRMS-Documentation/main/docs/assets/images/grms-logo_250x309.png)
 
-# Grassroot Mobile Survey App
+# Grassroots Mobile Survey App
 Welcome to the Grassroots Mobile Survey App Documentation site, a resource for nonprofit organizations interested in using the app and people interested in contributing to the project.
 
 ## Brief History
