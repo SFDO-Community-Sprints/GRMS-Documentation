@@ -17,7 +17,17 @@ has_children: false
 6. Attach the `.apk` file in the release page.
 
 ## Salesforce Package
-1. Create a release branch for the new version. Branch name should be like `release/vX.Y.Z`.
+Salesforce Application forGrassroots Mobile Survey, now available to [install](https://install.salesforce.org/products/grms/latest).
+
+Features:
+  1. Free and open source for nonprofits with small budgets.
+  2. Offline or online! 
+  3. Downloaded surveys can be filled out whether there’s phone or internet service, providing remote villagers or disaster victims support. Once wifi or phone service is restored, one-step sync and your data flows to your database.
+  4. Customizable! Organizations build their own surveys to captures the data needed.
+  5. Sync from mobile iOS or Android app using only one Salesforce API user.
+
+
+<!-- 1. Create a release branch for the new version. Branch name should be like `release/vX.Y.Z`.
 2. Summarize the features and/or bugs fixed in `CHANGELOG.md`.
 3. Update the `sfdx-project.json` and create the new package version.
 ```
@@ -29,4 +39,4 @@ sfdx force:package:version:create --path "force-app" -x --wait 10 --codecoverage
 ```
 sfdx force:package:version:promote -p 04tXXXXX....
 ```
-7. Update the installation link and package id in [Salesforce setup wiki page](https://github.com/SFDO-Community-Sprints/GrassrootsMobileSurveyApp/wiki/Salesforce-Initial-Setup).
+7. Update the installation link and package id in [Salesforce setup wiki page](https://github.com/SFDO-Community-Sprints/GrassrootsMobileSurveyApp/wiki/Salesforce-Initial-Setup). -->
