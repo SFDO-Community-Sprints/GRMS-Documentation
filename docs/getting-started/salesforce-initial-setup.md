@@ -4,7 +4,7 @@ parent: Getting Started
 nav_order: 1
 ---
 # Salesforce Initial Setup
-## Install the Grassroots Survey Salesforce Package
+## **Install the Grassroots Survey Salesforce Package
 The `Grassroots Survey` package contains metadata like custom fields and custom objects that are used in the mobile app. 
 
 Follow the appropriate link below to install the `Grassroots Survey` package in a Sandbox, Developer Edition, or Trailhead Playground instance of Salesforce.
@@ -15,6 +15,17 @@ Follow the appropriate link below to install the `Grassroots Survey` package in 
 
 Click on the **Install Grassroots Mobile Survey (GRMS) - View Details** button on the Salesforce.org MetaDeploy page for install. On the next page, you may select your org type using the dropdown arrow on the **Log In to Install** button.
 ![Screen Shot 2022-12-10 at 11 18 06 AM](https://user-images.githubusercontent.com/44512446/206865783-4298aa62-c70e-47d6-a82e-45c3c5ec6a98.png)
+
+## **Install the Sample Surveys Unmanaged Package**
+
+The Sample Surveys package is intended to provide some of the fields a new Mobile App administrator may want to include.
+
+Keep in mind that the Grassroots Mobile Survey App was designed to be customizable and flexible to meet the needs of nonprofits that differ widely in how they gather information and how they want to organize and report on it.
+
+The Sample Surveys Unmanaged Package is an optional install on Metadeploy, but we highly recommend installing it. We have prepared two types of surveys, Home Care and Disaster Relief, with fields and page layouts that you can use as is, or pick and choose which fields are relevant for your organization. Or, maybe you'll install, see how the pages work, and then proceed to create totally different surveys for your organization.
+
+To install, make sure it is seleted on the Metadeploy screen.
+
 
 After the installation is complete, you can see the `Grassroots Survey` application in the Salesforce application launcher ("waffle menu" in upper left). The following table summarizes the package components that are useful to be aware of as you proceed to the next steps in the Salesforce initial setup:
 
@@ -29,20 +40,6 @@ After the installation is complete, you can see the `Grassroots Survey` applicat
 | Field Worker and Client Layout | Contact Page Layout | |
 | Field Survey Layout | Field Survey Page Layout | |
 | Grassroots Survey App Admin | Permission Set | `GRMS_App_Admin` |
-
-## **Install the Sample Surveys Unmanaged Package**
-
-The Sample Surveys package is intended to provide some of the fields a new Mobile App administrator may want to include.
-
-Keep in mind that the Grassroots Mobile Survey App was designed to be customizable and flexible to meet the needs of nonprofits that differ widely in how they gather information and how they want to organize and report on it.
-
-The Sample Surveys Unmanaged Package is an optional install, but we highly recommend installing it. We have prepared two types of surveys, Home Care and Disaster Relief, with fields and page layouts that you can use as is, or pick and choose which fields are relevant for your organization. Or, maybe you'll install, see how the pages work, and then proceed to create totally different surveys for your organization.
-
-To install, go to the following link:
-
-[Sample Surveys Package](https://login.salesforce.com/packaging/installPackage.apexp?p0=04t0I000001E4J1QAK)
-
-![Install Sample Surveys](https://user-images.githubusercontent.com/44512446/180663505-9155a01d-2fe5-4e44-8342-4341b49fc3c3.png)
 
 ## **Create an Integration User**
 
