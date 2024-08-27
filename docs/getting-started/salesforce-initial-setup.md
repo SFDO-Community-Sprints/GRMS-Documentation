@@ -9,7 +9,7 @@ The `Grassroots Survey` package contains metadata like custom fields and custom 
 
 Follow the appropriate link below to install the `Grassroots Survey` package in a Sandbox, Developer Edition, or Trailhead Playground instance of Salesforce.
 
-* Latest version (Feature Release v0.1.0.3)
+* Latest version
   * [Production, Sandbox, or Developer Org](https://install.salesforce.org/products/grms/latest)
   * Trailhead Playground: Follow the instructions at [Install Apps and Packages in Your Trailhead Playground](https://trailhead.salesforce.com/en/content/learn/modules/trailhead_playground_management/install-apps-and-packages-in-your-trailhead-playground) and use package Id `04t6g000008fj0mAAA`.
 
