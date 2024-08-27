@@ -37,7 +37,7 @@ View the [Project Intro Video](https://drive.google.com/file/d/1KCUhyeCFtQvHle8l
 Join our group discussion in the [Trailblazer Community](https://trailhead.salesforce.com/trailblazer-community/groups/0F94S000000kI60SAE).
 
 If you are a **nonprofit**:<br>
-Your Salesforce Administrator just needs to do the [Getting Started](/getting-started.html) one-time setup before [Getting Your Field Workers Started](#getting-your-field-workers-started/index.md) with the mobile app. Then some [Further Customization](/further-customization/index.md) can make it more effective for you.
+Your Salesforce Administrator just needs to do the [Getting Started](getting-started/index.md) one-time setup before [Getting Your Field Workers Started](#getting-your-field-workers-started/index.md) with the mobile app. Then some [Further Customization](/further-customization/index.md) can make it more effective for you.
 
 If you are an **aspiring contributor**:<br>
 You can help us just by following the instructions in this wiki and giving us feedback about the process. Join our group discussion in the [Trailblazer Community group](https://trailhead.salesforce.com/ja/trailblazer-community/groups/0F94S000000kI60SAE). We also need [developers](docs/contribution/) and help with documentation, marketing, and support.
