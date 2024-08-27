@@ -24,7 +24,7 @@ This mobile app utilizes a Heroku app with Auth0 as a login API endpoint to sync
 - Survey types and fields, layouts, and localization settings are customizable.
 
 ## 4. Data Model
-The following table summarizes the package components. Additional Information is on our [Data Model page](contribution/data-model.html).
+The following table summarizes the package components. Additional Information is on our [Data Model page](https://sfdo-community-sprints.github.io/GRMS-Documentation/contribution/data-model.html).
 
 | Name | Description | API Name |
 | ---- | ----------- | -------- |
