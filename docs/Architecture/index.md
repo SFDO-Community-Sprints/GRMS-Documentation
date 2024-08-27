@@ -39,6 +39,6 @@ The following table summarizes the package components. Additional Information is
 | Grassroots Survey App Admin | Permission Set | `GRMS_App_Admin` |
 
 ## 5. Additional Architecture Information
-* [State Management](https://github.com/SFDO-Community/GrassrootsMobileSurveyApp/wiki/State-Management)
+* [State Management]([https://github.com/SFDO-Community/GrassrootsMobileSurveyApp/wiki/State-Management](https://sfdo-community-sprints.github.io/GRMS-Documentation/contribution/state-management.html))
 * Mobie Application [Screens](https://github.com/SFDO-Community/GrassrootsMobileSurveyApp/wiki/Screens)
 * [Localization](https://github.com/SFDO-Community/GrassrootsMobileSurveyApp/wiki/Localization)
