@@ -29,6 +29,8 @@ View the [Project Intro Video](https://drive.google.com/file/d/1KCUhyeCFtQvHle8l
 * 2018 - MTX, a Salesforce consulting company in India, made the Hayden Hall project its Corporate Social Responsibility project for the year and developed the first prototype.
 * 2019 - The first twelve mobile phones with the app installed were distributed to beta testers across the Himalayan region near Darjeeling
 * 2020-2022 - The team began work on the next phase of the project with the goal of making it available across the nonprofit Salesforce sector.
+* 2022 - App published after passing App Exchange security review.
+* 2023-present - The team continues to refine the app and work on new features.
 
 ## Join Us
 
