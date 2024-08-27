@@ -105,7 +105,7 @@ Assign GRMS Record Types to Sys Admin and your Integration User. Note that if yo
 #### **Create Fields**
 Begin by making a list of all the fields you'll need that should be on the survey. Think about what data you need to collect and what type of fields you need to do that. Add these fields to the Field Survey object. 
 
-Keep in mind the [mobile app field limitations](https://github.com/SFDO-Community/GrassrootsMobileSurveyApp/wiki/Salesforce-Initial-Setup#limitations-with-respect-to-the-mobile-app) listed below when creating fields for your surveys.
+Keep in mind the [mobile app field limitations](#limitations-with-respect-to-the-mobile-app) listed below when creating fields for your surveys.
 
 #### **Modify Page Layouts**
    * **You need to add at least one editable field to an editable section on the default Field Survey Layout for your mobile app to load your record types.**
