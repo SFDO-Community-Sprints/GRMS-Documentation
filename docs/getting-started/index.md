@@ -6,4 +6,4 @@ has_children: true
 ---
 
 # Getting Started
-One-time setup to start using the mobile app:
+You will need to do a one-time setup in Salesforce and Heroku to start using the mobile app.
