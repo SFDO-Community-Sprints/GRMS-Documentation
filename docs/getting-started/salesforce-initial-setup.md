@@ -201,4 +201,4 @@ Be mindful of the following limitations of the Field Survey object as it's used 
  * The `Survey Date (GRMS_SurveyDate__c)` field doesn't appear in the mobile app, but the value of this field is automatically set to the date when you create the field survey locally on the mobile device.
 
 ## **Next Step**
-Now your Salesforce org is configured for use with the mobile app! Go to [Heroku Initial Setup](/getting-started/heroku-initial-setup.md) to set up the handshake between Salesforce and the mobile app.
+Now your Salesforce org is configured for use with the mobile app! Go to [Heroku Initial Setup](/docs/getting-started/heroku-initial-setup.md) to set up the handshake between Salesforce and the mobile app.
