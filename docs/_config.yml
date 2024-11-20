@@ -5,10 +5,10 @@ color_scheme: "light"
 
 # Aux links for the upper right navigation
 aux_links:
-  "Grassroots Mobile Survey App Package Repo":
+  "GRMS Package Repo":
     - "//github.com/SFDO-Community/GrassrootsMobileSurveyApp"
 
-  "Grassroots Mobile Survey Salesforce Package Repo":
+  "GRMS Salesforce Package Repo":
     - "//github.com/SFDO-Community/GrassrootsSurveySalesforcePackage"
 
 aux_links_new_tab: true
