@@ -19,9 +19,9 @@ After working with nonprofits in Nepal, India, Cambodia and Ethiopia, founder Tr
 
 ## Project Vision
 
-The Grassroots Mobile Survey App team believes that mobile technology is critically important for meeting the missions of many nonprofits worldwide. These nonprofits must have staff in the field to bring their services to those in need who are unable to come to a central office. In the case of service-based organizations, the nonprofit's constituents are often better served in their home environments. In the case of emergencies and disasters, the constituents must be served in the field.
+The Grassroots Mobile Survey App (GRMS) team believes that mobile technology is critically important for meeting the missions of many nonprofits worldwide. These nonprofits must have staff in the field to bring their services to those in need who are unable to come to a central office. In the case of service-based organizations, the nonprofit's constituents are often better served in their home environments. In the case of emergencies and disasters, the constituents must be served in the field.
 
-View the [Project Intro Video](https://drive.google.com/file/d/1KCUhyeCFtQvHle8lp9iGMNthKzeDXB5h/view?usp=drive_link) from our October 2021 Open Source Commons Sprint.
+Check out our [Product Intro Video](https://drive.google.com/file/d/1KJ_m5MxDpzua5KjodoJMJRMgIsJyad3M/view?usp=drive_link) to get an idea how GRMS works.
 ## Timeline
 
 * 2015 - Pilot project for social service charity Hayden Hall was begun with health workers filling out paper forms and those forms being manually entered into Salesforce. This project was the inspiration for the Grassroots Mobile Survey app.
