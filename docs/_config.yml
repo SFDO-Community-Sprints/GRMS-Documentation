@@ -11,8 +11,6 @@ aux_links:
   "View Grassroots Mobile Survey Salesforce Package Repo":
     - "//github.com/SFDO-Community/GrassrootsSurveySalesforcePackage"
 
-  "View Grassroots Mobile Survey Documentation":
-    - "//github.com/SFDO-Community-Sprints/GRMS-Documentation"
 aux_links_new_tab: true
 
 # Heading anchor links appear on hover over h1-h6 tags in page content
